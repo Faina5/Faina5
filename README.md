@@ -39,7 +39,7 @@
   <br/>  
 
 <div align="center">
-<img src="https://komarev.com/ghpvc/?username=thomasync&&style=flat-square" align="center" />
+<img src="https://komarev.com/ghpvc/?username=Faina5&&style=flat-square" align="center" />
 </div>  
 <!---
 Faina5/Faina5 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
