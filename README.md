@@ -3,7 +3,7 @@
 <img src="https://raw.githubusercontent.com/thomasync/thomasync/main/headergitlight.gif#gh-light-mode-only" align="center" height="325" />
 </div> 
 
-# <div align="center">Python/Html>CSS</div>  
+# <div align="center">Python/Html/CSS</div>  
 
 - 🌱 I’m currently learning HTML|CSS
 
@@ -11,7 +11,7 @@
 <br/>  
 
 
-<table><tr><td valign="top" width="33%">
+<table align="center"><tr><td valign="top" width="33%">
 
 ### Frontend  
 <div align="center">   
