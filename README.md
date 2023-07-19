@@ -29,20 +29,21 @@
 </td></tr></table>  
 
 
-<br/>  
-
-<a href="https://github.com/Faina5"><img alt="Git Stats" src="https://github-readme-stats.vercel.app/api?username=Faina5&show_icons=true" align="right" height="150" /></a>
-
-<div align="center">
+<div align='center'>
+  
 <a href="https://github.com/Faina5" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github />
 </a>
 
-  <br/>  
+<br>
 
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=Faina5&&style=flat-square" align="center" />
-</div>  
+<a href="https://github.com/Faina5"><img alt="Git Stats" src="https://github-readme-stats.vercel.app/api?username=Faina5&show_icons=true" height="150" /></a>
+
+<br>
+
+<img src="https://komarev.com/ghpvc/?username=Faina5&&style=flat-square">  
+
+</div>
 <!---
 Faina5/Faina5 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
