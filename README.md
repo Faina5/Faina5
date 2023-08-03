@@ -55,7 +55,7 @@
 
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
-  <a href="#"><img alt="DenverCoder1's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=DenverCoder1&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
+  <a href="#"><img alt="Faina5's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=Faina5&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
 
 </details>
 <img src="https://komarev.com/ghpvc/?username=Faina5&&style=flat-square">  
