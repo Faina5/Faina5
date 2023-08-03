@@ -42,7 +42,7 @@
 <h3>🔥 Streak Stats</h3>
 
   <p>
-    <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
+    <a href="#">
       <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Faina5's streak" src="https://streak-stats.demolab.com/?user=Faina5&theme=monokai-metallian&hide_border=true"/>
     </a>
   </p>
