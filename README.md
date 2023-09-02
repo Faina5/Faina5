@@ -1,8 +1,3 @@
-<div align="center">
-<img src="https://raw.githubusercontent.com/thomasync/thomasync/main/headergitdark.gif#gh-dark-mode-only" align="center" height="250" />
-<img src="https://raw.githubusercontent.com/thomasync/thomasync/main/headergitlight.gif#gh-light-mode-only" align="center" height="250" />
-</div> 
-
 # <div align="center">Python/Html/CSS</div>  
 
 - 🌱 I’m currently learning HTML|CSS|Python <img src="https://pa1.narvii.com/6670/9957fd9faa6373588edfa1d5c01a9c3fa08566e5_128.gif" align=center width=40px>
